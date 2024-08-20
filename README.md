@@ -20,18 +20,22 @@
 ## Exploratory Data Analysis
 **1. Trend Analysis of Tree Cover Loss:**
 
-- Plots the trend of tree cover loss from 2001 to 2023 across different regions and canopy cover thresholds.
-- Highlights the significant reduction in tree cover loss in 2020-2022, likely due to a logging ban, followed by a spike in 2023 after the ban was lifted.
+- Plot the trend of tree cover loss from 2001 to 2023 across different regions and canopy cover thresholds.
+- Highlight the significant reduction in tree cover loss in 2020-2022, likely due to a logging ban, followed by a spike in 2023 after the ban was lifted.
+  ![image](https://github.com/user-attachments/assets/69af4fd5-a2d1-4944-9bcd-684c8e2854f7)
 
 **2.Threshold Distribution Comparison:**
 
-- Creates pie charts comparing the distribution of canopy cover thresholds between the years 2001 and 2023.
-- Shows an overall increase in tree cover loss across all thresholds over the last 13 years.
+- Create pie charts comparing the distribution of canopy cover thresholds between the years 2001 and 2023.
+- Show an overall increase in tree cover loss across all thresholds over the last 13 years.
+  ![image](https://github.com/user-attachments/assets/a3cd2489-e8a3-4c9c-9bc5-368511236857)
 
 **3. Regional Trend Analysis for Specific Thresholds:**
 
-- Plots the trend of tree cover loss for specific regions (Meru, Kericho, Kiambu) at selected canopy cover thresholds (75%, 25%, 50%).
-- Illustrates how tree cover loss varies in these regions over the years.
+- Plot the trend of tree cover loss for specific regions (Meru, Kericho, Kiambu) at selected canopy cover thresholds (75%, 25%, 50%).
+- Illustrate how tree cover loss varies in these regions over the years.
+  ![image](https://github.com/user-attachments/assets/2a92a0ac-3380-43c1-b5d0-ab02bba08b99)
+
 
 **4. Comparison of Tree Cover Loss in Nakuru and Kiambu:**
 
