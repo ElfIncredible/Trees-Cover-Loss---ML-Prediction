@@ -25,6 +25,7 @@ This project aims to predict tree cover loss for subnational regions over the ne
 - Accessibility: Ensure that the results are easily accessible and interpretable by saving the predictions in user-friendly formats (Excel, CSV).
 
 ## Dataset
+The [dataset](https://www.globalforestwatch.org/dashboards/country/KEN/?category=forest-change&location=WyJjb3VudHJ5IiwiS0VOIl0%3D) used in this project provides a comprehensive overview of tree cover loss across various subnational regions in Kenya from 2001 to 2023. It includes detailed annual data on the extent of tree cover loss, which serves as the basis for analyzing trends and predicting future changes in forest cover.
 
 ## Data Collection and Pre-processing
 - Perform initial data loading, cleaning, and exploration tasks on national and subnational tree cover loss data in Kenya. 
