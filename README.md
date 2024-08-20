@@ -8,6 +8,9 @@
 - [Machine Learning](#machine-learning)
   - [Separate Features and Targets](#separate-features-and-targets)
   - [Splitting data into Train and Test data](#splitting-data-into-train-and-test-data)
+  - [Model Training - Linear Regression](#model-training---linear-regression)
+  - [Make Predictions](#make-predictions)
+  - [Model Evaluation - Mean Squared Error](#model-evaluation---mean-squared-error)
 
 ## Project Overview
 
@@ -68,6 +71,16 @@ Overall, we get a comprehensive analysis of tree cover loss trends across differ
 ## Machine Learning
 ### Separate Features and Targets
 Set up a supervised learning scenario where the model will be trained to predict the next year's tree cover loss using the data from the current year.
+
 ### Splitting data into Train and Test data
 - Split the data into training and testing sets with an 80-20 ratio.
 - This splitting is essential for evaluating the performance of machine learning models, as it allows you to train the model on one subset of the data and test it on a separate subset.
+
+### Model Training - Linear Regression
+Build and train a linear regression model to understand and predict tree cover loss trends over time using historical data.
+
+### Make Predictions
+Generate predictions of tree cover loss for the next year based on the test dataset, enabling you to evaluate the model's performance and accuracy.
+
+### Model Evaluation - Mean Squared Error
+Assess the accuracy and effectiveness of the linear regression model in predicting tree cover loss for the test data.
