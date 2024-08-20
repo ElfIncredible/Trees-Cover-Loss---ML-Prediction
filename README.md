@@ -1,4 +1,4 @@
-# Trees Cover Loss in Kenya- ML Prediction
+# Trees Cover Loss in Kenya - Machine Learning Prediction
 This project demonstrates the potential of machine learning to forecast environmental changes, offering valuable insights for planning and conservation efforts.
 
 
