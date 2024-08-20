@@ -1,4 +1,6 @@
-# Trees Cover Loss - ML Prediction
+# Trees Cover Loss in Kenya- ML Prediction
+This project demonstrates the potential of machine learning to forecast environmental changes, offering valuable insights for planning and conservation efforts.
+
 
 ## Table Of Contents
 - [Project Overview](#project-overview)
@@ -11,8 +13,15 @@
   - [Model Training - Linear Regression](#model-training---linear-regression)
   - [Make Predictions](#make-predictions)
   - [Model Evaluation - Mean Squared Error](#model-evaluation---mean-squared-error)
+  - [Making Predictions](#making-predictions)
 
 ## Project Overview
+This project aims to predict tree cover loss for subnational regions over the next two years (2024 and 2025) using historical data spanning from 2001 to 2023. The predictions are made using a Linear Regression model trained on this historical data, allowing for the estimation of future tree cover loss based on observed trends.
+
+**Key Objectives:**
+- Accurate Prediction: Provide reliable predictions for tree cover loss to help stakeholders anticipate and respond to environmental changes.
+- Data Integration: Seamlessly integrate predictive insights into existing datasets for comprehensive analysis.
+- Accessibility: Ensure that the results are easily accessible and interpretable by saving the predictions in user-friendly formats (Excel, CSV).
 
 ## Dataset
 
@@ -83,4 +92,10 @@ Build and train a linear regression model to understand and predict tree cover l
 Generate predictions of tree cover loss for the next year based on the test dataset, enabling you to evaluate the model's performance and accuracy.
 
 ### Model Evaluation - Mean Squared Error
-Assess the accuracy and effectiveness of the linear regression model in predicting tree cover loss for the test data.
+Assess the accuracy and effectiveness of the linear regression model in predicting tree cover loss for the test data and print the result.
+
+### Making Predictions
+- Generate predictions for tree cover loss in 2024 and 2025 for different subnational regions based on historical data
+- Integrate those predictions into the existing dataset
+- Save the updated dataset to files for further analysis or reporting.
+  ![image](https://github.com/user-attachments/assets/fe609821-e4df-4fa5-8b61-1532eef6e4e6)
