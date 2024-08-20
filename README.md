@@ -7,6 +7,7 @@ This project demonstrates the potential of machine learning to forecast environm
 - [Dataset](#dataset)
 - [Data Collection and Pre-processing](#data-collection-and-pre-processing)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Findings and Possible Conservation Efforts](#findings-and-possible-conservation-efforts)
 - [Machine Learning](#machine-learning)
   - [Separate Features and Targets](#separate-features-and-targets)
   - [Splitting data into Train and Test data](#splitting-data-into-train-and-test-data)
@@ -76,6 +77,43 @@ This project aims to predict tree cover loss for subnational regions over the ne
 
 
 Overall, we get a comprehensive analysis of tree cover loss trends across different regions and canopy cover thresholds in Kenya, with a focus on understanding the factors contributing to changes in forest cover over time.
+
+## Findings and Possible Conservation Efforts
+### Findings:
+**1. Significant Trends in Tree Cover Loss:**
+- Analysis of the data revealed that tree cover loss has fluctuated over the years, with notable reductions in certain regions during specific periods. For instance, a marked decrease in tree cover loss was observed across Kenya from 2020 to 2022, likely influenced by the national logging ban.
+- However, a concerning spike in tree cover loss was predicted for 2023, potentially linked to the lifting of the logging ban, indicating a possible resurgence of deforestation activities.
+
+**2. Regional Variations:**
+- The data analysis highlighted that different regions within Kenya have experienced varying degrees of tree cover loss. Regions like Nakuru and Kiambu have shown distinct trends, with Nakuru experiencing greater loss in recent years, while Kiambu demonstrated a more significant reduction, particularly in the last five years.
+- Coastal regions such as Kilifi, Kwale, and Lamu were identified as having the greatest reduction in tree cover loss, possibly due to concerted efforts in mangrove rehabilitation, farm forestry, and capacity building.
+
+**3. Prediction Insights:**
+- The predictions for 2024 and 2025 indicate that certain regions may continue to experience high levels of tree cover loss unless intervention measures are put in place. Narok, for instance, is forecasted to face severe deforestation, which may be driven by factors such as logging, agricultural expansion, or other land-use changes.
+
+### Possible Conservation Efforts:
+**1. Strengthening Logging Regulations:**
+- To mitigate the predicted increase in tree cover loss, Kenya could consider re-implementing or tightening logging regulations. A balanced approach that allows sustainable logging while protecting vital forested areas could prevent further deforestation.
+
+**2. Community-Based Forest Management:**
+- Encouraging community involvement in forest management, especially in regions like Narok and Nakuru, could help reduce deforestation rates. Programs that promote sustainable agriculture, agroforestry, and reforestation could empower local communities to protect their natural resources.
+
+**3. Mangrove and Coastal Forest Conservation:**
+- The success observed in coastal regions through mangrove rehabilitation and farm forestry efforts should be expanded and replicated in other vulnerable areas. These efforts not only reduce tree cover loss but also enhance biodiversity, support fisheries, and protect against coastal erosion.
+
+**4. Reforestation and Afforestation Initiatives:**
+- Large-scale reforestation and afforestation projects could be key to reversing tree cover loss trends. By planting trees in deforested and degraded areas, regions like Narok and Nakuru could see long-term ecological recovery.
+  
+**5. Policy Development and Enforcement:**
+- Developing and enforcing environmental policies that prioritize forest conservation is crucial. This could include incentives for private landowners to maintain forest cover, penalties for illegal logging, and the creation of protected areas where deforestation is strictly controlled.
+
+**6. Public Awareness and Education:**
+- Raising awareness about the importance of forests and the impact of deforestation can mobilize public support for conservation efforts. Educational campaigns could target schools, communities, and industries to promote sustainable practices.
+
+**7. International Collaboration:**
+- Kenya could benefit from international partnerships focused on forest conservation, including funding for conservation projects, technical assistance, and knowledge sharing. Collaborating with global organizations could also help address transboundary deforestation issues.
+
+By implementing these conservation efforts, Kenya can work towards reducing tree cover loss, protecting its rich biodiversity, and ensuring sustainable land use for future generations.
 
 ## Machine Learning
 ### Separate Features and Targets
